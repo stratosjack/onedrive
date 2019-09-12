@@ -1,4 +1,8 @@
 # Building and Installing the OneDrive Free Client
+
+## Installation on Ubuntu / Lubuntu / Debian - i386 / i686
+`sudo apt install onedrive`
+
 ## Build Requirements
 *   Build environment must have at least 1GB of memory & 1GB swap space
 *   [libcurl](http://curl.haxx.se/libcurl/)
